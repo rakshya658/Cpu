@@ -1,0 +1,38 @@
+CPU vs GPU vs TPU vs NPU
+CPU, GPU, TPU, and NPU are all types of processors used in computers and electronic devices. However, each has a different purpose and function.
+1. CPU (Central Processing Unit)
+- It is known as the brain of the computer.
+- It performs general-purpose tasks and calculations.
+- It controls and manages different computer operations.
+- Example: Running applications, opening files, and performing calculations.
+
+
+2. GPU (Graphics Processing Unit)
+- It is designed to process graphics and images.
+- It performs many calculations at the same time.
+- It is mainly used for gaming, video editing, animation, and AI.
+- Example: Rendering 3D games and videos.
+
+
+3. TPU (Tensor Processing Unit)
+- It is a specialized processor developed by Google.
+- It is designed mainly for machine learning and AI calculations.
+- It helps train and run large AI models efficiently.
+- Example: Training artificial intelligence models.
+
+
+4. NPU (Neural Processing Unit)
+
+
+
+
+
+
+
+
+
+
+- It is designed to perform artificial intelligence tasks.
+- It processes tasks related to neural networks.
+- It helps devices perform AI tasks with less power.
+- Example: Face recognition, voice recognition, and AI features in smartphones.
